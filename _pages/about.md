@@ -35,3 +35,10 @@ Our paper "[A new skeleton-neural DAG learning approach](https://link.springer.c
 **Paper accepted by the IEEE International Conference on Big Knowledge, December, 2021**
 
 Our paper "[Improving Gradient-based DAG Learning by Structural Asymmetry](https://ieeexplore.ieee.org/abstract/document/9667749)" is accepted by the IEEE International Conference on Big Knowledge (EI)
+
+**Publications**
+======
+[1] Wang Y, Yu K, Xiang G, et al. Discovering causally invariant features for out-of-distribution generalization[J]. Pattern Recognition, 2024, 150: 110338.
+[2] Guo X, Wang Y, Huang X, et al. Bootstrap-based causal structure learning[C]//Proceedings of the 31st ACM international conference on information & knowledge management. 2022: 656-665.
+[3] Cao Y, Yu K, Huang X, et al. A new skeleton-neural DAG learning approach[C]//Pacific-Asia Conference on Knowledge Discovery and Data Mining. Cham: Springer International Publishing, 2022: 626-638.
+[4] Wang Y, Yang S, Guo X, et al. Improving Gradient-based DAG Learning by Structural Asymmetry[C]//2021 IEEE International Conference on Big Knowledge (ICBK). IEEE, 2021: 1-8.
