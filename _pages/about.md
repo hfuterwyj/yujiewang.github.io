@@ -13,10 +13,11 @@ I received my Bachelor’s Degree in the School of Mathematics from Hefei Univer
 
 **Academic Services**
 ======
-a) IEEE Transactions on Emerging Topics in Computational Intelligence, SCI, IF:5.3, reviewer.
+(a) [IEEE Transactions on Emerging Topics in Computational Intelligence](https://cis.ieee.org/publications/t-emerging-topics-in-ci), SCI, IF:5.3, reviewer.
 
 **News**
 ======
 
-**Paper accepted by the Journal of Software, August, 2022**
-Our paper "" is accepted by the Journal Pattern Recongnition
+**Paper accepted by the Pattern Recongnition, February, 2024**
+======
+Our paper "[Discovering causally invariant features for out-of-distribution generalization](https://www.sciencedirect.com/science/article/pii/S003132032400089X)" is accepted by the Journal Pattern Recongnition
