@@ -12,7 +12,7 @@ title                    : "Yujie Wang (汪玉杰)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://hfuterwyj/yujiewang.github.io"
+url                      : https://hfuterwyj.github.io/yujiewang.github.io # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://hfuterwyj/yujiewang.github.io, https://hfuterwyj.github.io/yujiewang.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
