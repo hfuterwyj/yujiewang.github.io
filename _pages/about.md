@@ -18,6 +18,6 @@ I received my Bachelor’s Degree in the School of Mathematics from Hefei Univer
 **News**
 ======
 
-Paper accepted by the Pattern Recongnition, February, 2024
-======
-Our paper "[Discovering causally invariant features for out-of-distribution generalization](https://www.sciencedirect.com/science/article/pii/S003132032400089X)" is accepted by the Journal Pattern Recongnition
+**Paper accepted by the Pattern Recongnition, February, 2024**
+
+Our paper "[Discovering causally invariant features for out-of-distribution generalization](https://www.sciencedirect.com/science/article/pii/S003132032400089X)" is accepted by the Journal Pattern Recongnition (CCF B,SCI Q1)
