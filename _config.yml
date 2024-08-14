@@ -12,7 +12,7 @@ title                    : "Wang Yujie / 汪玉杰"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://github.com/hfuterwyj/yujiewang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -26,7 +26,6 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Student, Hefei University of Technology"
   location         : "Hefei Anhui"
-  employer         : "Red Brick University"
   uri              : # URL
   email            : "yujiewang@mail.hfut.edu.cn" 
 
