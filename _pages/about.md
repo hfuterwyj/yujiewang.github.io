@@ -20,6 +20,7 @@ My research interest includes: grpah out-of-distribution generalization, causal 
 **News**
 ======
 **Papers are on the way**
+
 Our paper “Towards Effective Graph Rationalization via Boosting Environment Diversity” is on the way.
 
 Our paper “Causality Guided Co-attention Network for Visual Question Answering” is on the way.
